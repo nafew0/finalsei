@@ -41,6 +41,4 @@ BdREN wants to speed up the first pass of grading. Build a small **application w
 - The **link to your GitHub repository** (with your app in it).
 - The **grade reports** your app produced for the 3 sample answers.
 
-**We will shortlist the top 5 submissions and call only them for the next step.**
-
 Good luck.
